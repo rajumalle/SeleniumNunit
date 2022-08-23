@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{26FFDB2C-62D5-4D99-9928-4D7D315894BB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestProjectNUnit/Tests/Test2.cs">
+    <Files>
+      <File FileName="TestProjectNUnit/Tests/Test2.cs" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestProjectNUnit" expanded="True">
+            <Node name="TestProjectNUnit" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pageobjects" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="Test2.cs" selected="True" />
+              </Node>
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestProjectNUnit" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestProjectNUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
