@@ -12,7 +12,7 @@ public class Test1
     {
         IWebDriver? driver = DriverManager.getDriver();
         JupitorPage jupitorPage = new JupitorPage(driver);
-        DriverManager.navigate("https://jupiter.cloud.planittesting.com/#/");
+        jupitorPage.navigateToJupitor();
         jupitorPage.clickOnShopping();
         DriverManager.Close();
 

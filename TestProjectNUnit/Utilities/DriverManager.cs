@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Policy;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
@@ -20,10 +21,12 @@ namespace SeleniumNunit
         {
             return driver.Title;
         }
-        public static void navigate(string url)
+
+        public void navigate(string url)
         {
             driver.Url = url;
         }
+
         public static void Close()
         {
             driver.Close();

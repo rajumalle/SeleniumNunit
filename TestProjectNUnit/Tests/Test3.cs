@@ -13,7 +13,7 @@ public class Test3
         IWebDriver? driver = DriverManager.getDriver();
        
         //Launch the Online Store Website
-        DriverManager.navigate("https://www.store.demoqa.com");
+      //  DriverManager.navigate("https://www.store.demoqa.com");
 
         // Find the element that's ID attribute is 'account'(My Account) 
         driver.FindElement(By.XPath(".//*[@id='account']/a")).Click();
